@@ -1,0 +1,1 @@
+export { MainProduct } from "./MainProducts";
